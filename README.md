@@ -1,8 +1,9 @@
 ---
 <div align="center">
 <h1 align="center">Hello, I´m <a href="https://github.com/ICaesarI">CaesarCode</a> 👋</h1>
+<img src="https://github.com/ICaesarI/ICaesarI/blob/main/bannerProfile.png?raw=true" alt="Banner" />
 </div>
-<img src="https://i.imgur.com/byuRUal.png">
+
 
 ## 🐉 About Me
 

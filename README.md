@@ -19,7 +19,7 @@
 - ⚫ Github Star ⚫ 
 - 🖥️ Full Stack Developer
 - ✉️ cesar.gonzalez.anayaDev@gmail.com
-- 🔗 www.linkedin.com/in/cesar-gonzalez-anaya-9689412b8
+- 🔗 https://www.linkedin.com/in/cesar-gonzalez-anaya
 
 <br>
 

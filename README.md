@@ -15,7 +15,7 @@
 
 
 
-## 🐉 About Me
+## 🔴 About Me
 
 - ⚫ Github Star ⚫ 
 - 🖥️ Full Stack Developer
@@ -23,12 +23,10 @@
 - 🔗 https://www.linkedin.com/in/cesar-gonzalez-anaya
 
 <br>
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 
 ---
 
-## 🧠 Languages & Tools I Have Placed My Hands On
+## 🔴 Languages & Tools I Have Placed My Hands On 
 
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -74,7 +72,7 @@
 
 <br>
 
-## 🔧 Skills & Technologies
+## 🔴 Skills & Technologies 
 
 - **Languages**: 
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) 
@@ -101,12 +99,12 @@
 
 ---
 
-## 📈 GitHub Stats:
+## 🔴 GitHub Stats: 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaesarCode&show_icons=true&theme=radical)
 
 
-## 💻 Projects
+## 🔴 Projects 
 <table>
 <tr>
 <td width="50%">

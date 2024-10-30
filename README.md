@@ -4,16 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&weight=700&duration=2000&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I%C2%B4m++CaesarCode+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
-
-
-
-
 ---
   
   <img src="https://github.com/ICaesarI/ICaesarI/blob/main/bannerP.gif?raw=true" alt="Banner" />
 </div>
-
-
 
 ## 🔴 About Me
 

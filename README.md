@@ -6,7 +6,7 @@
 
 ---
   
-  <img src="https://github.com/ICaesarI/ICaesarI/blob/main/bannerP.gif?raw=true" alt="Banner" />
+  <img src="https://github.com/ICaesarI/ICaesarI/blob/main/bannerProfile.gif?raw=true" alt="Banner" />
 </div>
 
 ## 🔴 About Me

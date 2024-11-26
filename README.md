@@ -108,16 +108,20 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Proximo</h3>
+<h3 align="center">BergamotaRoutes---TechConnect</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="#" width="400" alt="Proyecto1"></a>
+<a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect" target="_blank"><img src="" width="400" alt="BergamotaRoutes---TechConnect"></a>
 <p>
-<a href="#" target="_blank">
-<img src="#">
+<a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="#" target="_blank">
-<img src="#">
+<img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>1</strong> -.</p>
+<p>Optimización de rutas para conductores, integrado con APIs y desarrollado en Next.js. Incluye validación y gestión de datos en tiempo real.</p>
 </div>
+</td>
+</tr>
+</table>
+

@@ -108,10 +108,10 @@
 <a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect" target="_blank"><img src="ProyectsImg/BergamotaRoutes---TechConnect.png" width="400" alt="BergamotaRoutes---TechConnect"></a>
 <p>
 <a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-Demo-ff0000?style=for-the-badge&color=ff0000&logoColor=white" alt="Demo">
 </a>
 </p>
 <p>Route optimization for drivers, integrated with APIs and developed in Next.js. Includes real-time data validation and management.</p>
@@ -124,10 +124,10 @@
 <a href="https://github.com/ICaesarI/qr-code-generator" target="_blank"><img src="ProyectsImg/QR_Code-_Generator.png" width="400" alt="QR Code Generator"></a>
 <p>
 <a href="https://github.com/ICaesarI/qr_code-_generator" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-Demo-ff0000?style=for-the-badge&color=ff0000&logoColor=white" alt="Demo">
 </a>
 </p>
 <p>QR Code generator tool integrated with customizable URL input, developed in Python. Features real-time generation of QR codes with adjustable size and border, and allows saving the output as a PNG image.</p>
@@ -135,4 +135,5 @@
 </td>
 </tr>
 </table>
+
 

@@ -99,7 +99,7 @@
 
 ---
 
-## 🔴 Projects 
+## 🔴 Projects
 <table>
 <tr>
 <td width="50%">
@@ -114,7 +114,23 @@
 <img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Optimización de rutas para conductores, integrado con APIs y desarrollado en Next.js. Incluye validación y gestión de datos en tiempo real.</p>
+<p>Route optimization for drivers, integrated with APIs and developed in Next.js. Includes real-time data validation and management.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">QR Code Generator</h3>
+<div align="center">
+<a href="https://github.com/ICaesarI/qr-code-generator" target="_blank"><img src="ProyectsImg/QR_Code-_Generator.png" width="400" alt="QR Code Generator"></a>
+<p>
+<a href="https://github.com/ICaesarI/qr-code-generator" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>QR Code generator tool integrated with customizable URL input, developed in Python. Features real-time generation of QR codes with adjustable size and border, and allows saving the output as a PNG image.</p>
 </div>
 </td>
 </tr>

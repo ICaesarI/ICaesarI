@@ -123,7 +123,7 @@
 <div align="center">
 <a href="https://github.com/ICaesarI/qr-code-generator" target="_blank"><img src="ProyectsImg/QR_Code-_Generator.png" width="400" alt="QR Code Generator"></a>
 <p>
-<a href="https://github.com/ICaesarI/qr-code-generator" target="_blank">
+<a href="https://github.com/ICaesarI/qr_code-_generator" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="#" target="_blank">

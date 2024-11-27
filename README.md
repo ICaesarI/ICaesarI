@@ -121,9 +121,9 @@
 <td width="50%">
 <h3 align="center">QR Code Generator</h3>
 <div align="center">
-<a href="https://github.com/ICaesarI/qr-code-_generator" target="_blank"><img src="ProyectsImg/QR_Code-_Generator.png" width="400" alt="QR Code Generator"></a>
+<a href="https://github.com/ICaesarI/QR_Code_Generator" target="_blank"><img src="ProyectsImg/QR_Code-_Generator.png" width="400" alt="QR Code Generator"></a>
 <p>
-<a href="https://github.com/ICaesarI/qr_code-_generator" target="_blank">
+<a href="https://github.com/ICaesarI/QR_Code_Generator" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="#" target="_blank">
@@ -135,5 +135,6 @@
 </td>
 </tr>
 </table>
+
 
 

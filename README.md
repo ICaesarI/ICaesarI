@@ -3,30 +3,28 @@
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&weight=700&duration=2000&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I%C2%B4m++CaesarCode+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
+</div>
 
 ---
-  
+
+<div align="center">
   <img src="https://github.com/ICaesarI/ICaesarI/blob/main/bannerProfile.gif?raw=true" alt="Banner" />
 </div>
+
+---
 
 ## 🔴 About Me
 
 ✨ **Github Star** ⭐  
 💻 **Full Stack Developer**  
 
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.gonzalez.anayaDev@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-gonzalez-anaya)  
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=website&logoColor=white)](https://tu-sitio-web.com)  
 
-</div>
-
-<br>
-
-
 ---
 
-## 🔴 Languages & Tools I Have Placed My Hands On 
+## 🔴 Languages & Tools I Have Placed My Hands On
 
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -70,32 +68,13 @@
   </a> 
 </p>
 
-<br>
+---
 
-## 🔴 Skills & Technologies 
+## 🔴 Skills & Technologies
 
-- **Languages**: 
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) 
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-  
-- **Frontend**: 
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-- **Database**: 
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-  ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white) 
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-- **Other**: 
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) 
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-<br>
+| **Skills**                                                                                             | Most Used Languages                                                                                     |
+|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| **Languages**: <br> ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) <br><br> **Frontend**: <br> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) <br><br> **Database**: <br> ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) <br><br> **Other**: <br> ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ICaesarI&theme=great-gatsby&layout=compact&langs_count=5&card_width=300&text_color=ffffff)](https://github.com/ICaesarI) |
 
 ---
 
@@ -135,6 +114,10 @@
 </td>
 </tr>
 </table>
+
+---
+
+
 
 
 

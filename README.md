@@ -20,7 +20,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.gonzalez.anayaDev@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-gonzalez-anaya)  
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=website&logoColor=white)]([https://tu-sitio-web.com](https://www.caesarcode.com.mx/))  
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=website&logoColor=white)](https://www.caesarcode.com.mx/))  
 
 ---
 

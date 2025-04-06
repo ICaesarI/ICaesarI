@@ -111,8 +111,24 @@
 </p>
 <p>QR Code generator tool integrated with customizable URL input, developed in Python. Features real-time generation of QR codes with adjustable size and border, and allows saving the output as a PNG image.</p>
 </div>
+    
 </td>
 </tr>
+
+<td width="50%">
+<h3 align="center">QR Code Generator</h3>
+<div align="center">
+<a href="" target="_blank"><img src="ProyectsImg/Cocomo-Calculator.png" width="400" alt="QR Code Generator"></a>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/-Demo-ff0000?style=for-the-badge&color=ff0000&logoColor=white" alt="Demo">
+</a>
+</p>
+<p>Interactive web tool for estimating software project effort, time, and team size using the COCOMO II model. Features two calculators (Baker and Kutcher), multilingual support, light/dark mode, and customizable project attributes. Perfect for developers and project managers seeking accurate planning.</p>
+</div>
 </table>
 
 ---

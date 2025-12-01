@@ -64,57 +64,13 @@
 ---
 
 ## 🔴 Projects
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">BergamotaRoutes---TechConnect</h3>
-<div align="center">
-<a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect" target="_blank"><img src="ProyectsImg/BergamotaRoutes---TechConnect.png" width="400" alt="BergamotaRoutes---TechConnect"></a>
-<p>
-<a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/-Demo-ff0000?style=for-the-badge&color=ff0000&logoColor=white" alt="Demo">
-</a>
-</p>
-<p>Route optimization for drivers, integrated with APIs and developed in Next.js. Includes real-time data validation and management.</p>
-</div>
-</td>
+<table> <tr> <td width="50%"> <h3 align="center">BergamotaRoutes---TechConnect</h3> <div align="center"> <a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect" target="_blank"><img src="ProyectsImg/BergamotaRoutes---TechConnect.png" width="400" alt="BergamotaRoutes---TechConnect"></a> <p> <a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect" target="_blank"> <img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Demo-ff0000?style=for-the-badge&color=ff0000&logoColor=white" alt="Demo"> </a> </p> <p>Route optimization for drivers, integrated with APIs and developed in Next.js. Includes real-time data validation and management.</p> </div> </td>
 
-<td width="50%">
-<h3 align="center">QR Code Generator</h3>
-<div align="center">
-<a href="https://github.com/ICaesarI/QR_Code_Generator" target="_blank"><img src="ProyectsImg/QR_Code-_Generator.png" width="400" alt="QR Code Generator"></a>
-<p>
-<a href="https://github.com/ICaesarI/QR_Code_Generator" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://qr-code-generator-private.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/-Demo-ff0000?style=for-the-badge&color=ff0000&logoColor=white" alt="Demo">
-</a>
-</p>
-<p>QR Code generator tool integrated with customizable URL input, developed in Python. Features real-time generation of QR codes with adjustable size and border, and allows saving the output as a PNG image.</p>
-</div>
-    
-</td>
-</tr>
+<td width="50%"> <h3 align="center">QR Code Generator</h3> <div align="center"> <a href="https://github.com/ICaesarI/QR_Code_Generator" target="_blank"><img src="ProyectsImg/QR_Code-_Generator.png" width="400" alt="QR Code Generator"></a> <p> <a href="https://github.com/ICaesarI/QR_Code_Generator" target="_blank"> <img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://qr-code-generator-private.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Demo-ff0000?style=for-the-badge&color=ff0000&logoColor=white" alt="Demo"> </a> </p> <p>QR Code generator tool integrated with customizable URL input, developed in Python. Features real-time generation of QR codes with adjustable size and border, and allows saving the output as a PNG image.</p> </div>      </td> </tr>
 
-<td width="50%">
-<h3 align="center">COCOMO Calculator</h3>
-<div align="center">
-<a href="https://github.com/ICaesarI/Cocomo_Calculator" target="_blank"><img src="ProyectsImg/Cocomo-Calculator.png" width="400" alt="QR Code Generator"></a>
-<p>
-<a href="https://github.com/ICaesarI/Cocomo_Calculator" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://cocomo-calculator-theta.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/-Demo-ff0000?style=for-the-badge&color=ff0000&logoColor=white" alt="Demo">
-</a>
-</p>
-<p>Interactive web tool for estimating software project effort, time, and team size using the COCOMO II model. Features two calculators (Baker and Kutcher), multilingual support, light/dark mode, and customizable project attributes. Perfect for developers and project managers seeking accurate planning.</p>
-</div>
-</table>
+<td width="50%"> <h3 align="center">COCOMO Calculator</h3> <div align="center"> <a href="https://github.com/ICaesarI/Cocomo_Calculator" target="_blank"><img src="ProyectsImg/Cocomo-Calculator.png" width="400" alt="QR Code Generator"></a> <p> <a href="https://github.com/ICaesarI/Cocomo_Calculator" target="_blank"> <img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://cocomo-calculator-theta.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Demo-ff0000?style=for-the-badge&color=ff0000&logoColor=white" alt="Demo"></p> <p>Interactive web tool for estimating software project effort, time, and team size using the COCOMO II model. Features two calculators (Baker and Kutcher), multilingual support, light/dark mode, and customizable project attributes. Perfect for developers and project managers seeking accurate planning.</p> </div>
+
+<td width="50%"> <h3 align="center">Enigma-EPS32</h3> <div align="center"> <a href="https://github.com/ICaesarI/Enigma-EPS32" target="_blank"><img src="ProyectsImg/Enigma-EPS32.png" width="400" alt="Enigma-EPS32"></a> <p> <a href="https://github.com/ICaesarI/Enigma-EPS32" target="_blank"> <img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="#" target="_blank"> </a> </p> <p>Secure communication system implementing the Enigma cipher on two ESP32 modules. The Transmitter encrypts the message and sends it via Bluetooth (SPP), and the Receiver decrypts and forwards the result to Telegram using a stable Wi-Fi alternation logic.</p> </div>      </table>
 
 ---
 

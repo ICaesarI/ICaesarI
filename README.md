@@ -141,7 +141,7 @@
       <h3 align="center">CaesarCode Configuration</h3> 
       <div align="center"> 
         <a href="https://github.com/ICaesarI/CaesarCode-Configuration-Script" target="_blank">
-          <img src="CaesarCode-Configuration-Script.png" width="400" alt="CaesarCode-Configuration">
+          <img src="ProyectsImg/CaesarCode-Configuration-Script.png" width="400" alt="CaesarCode-Configuration">
         </a> 
         <p> 
           <a href="https://github.com/ICaesarI/CaesarCode-Configuration-Script" target="_blank"> 

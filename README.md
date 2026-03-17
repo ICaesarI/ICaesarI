@@ -66,10 +66,12 @@
 ## 🔴 Projects
 <table> 
   <tr> 
-    <td width="50%"> 
+    <td width="50%" valign="top"> 
       <h3 align="center">BergamotaRoutes---TechConnect</h3> 
       <div align="center"> 
-        <a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect" target="_blank"><img src="ProyectsImg/BergamotaRoutes---TechConnect.png" width="400" alt="BergamotaRoutes"></a> 
+        <a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect" target="_blank">
+          <img src="ProyectsImg/BergamotaRoutes---TechConnect.png" width="400" alt="BergamotaRoutes">
+        </a> 
         <p> 
           <a href="https://github.com/ICaesarI/BergamotaRoutes---TechConnect" target="_blank"> <img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> 
           <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Demo-ff0000?style=for-the-badge&color=ff0000&logoColor=white" alt="Demo"> </a> 
@@ -77,10 +79,12 @@
         <p>Route optimization for drivers, integrated with APIs and developed in Next.js. Includes real-time data validation and management.</p> 
       </div> 
     </td>
-    <td width="50%"> 
+    <td width="50%" valign="top"> 
       <h3 align="center">QR Code Generator</h3> 
       <div align="center"> 
-        <a href="https://github.com/ICaesarI/QR_Code_Generator" target="_blank"><img src="ProyectsImg/QR_Code-_Generator.png" width="400" alt="QR Code Generator"></a> 
+        <a href="https://github.com/ICaesarI/QR_Code_Generator" target="_blank">
+          <img src="ProyectsImg/QR_Code-_Generator.png" width="400" alt="QR Code Generator">
+        </a> 
         <p> 
           <a href="https://github.com/ICaesarI/QR_Code_Generator" target="_blank"> <img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> 
           <a href="https://qr-code-generator-private.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Demo-ff0000?style=for-the-badge&color=ff0000&logoColor=white" alt="Demo"> </a> 
@@ -91,10 +95,12 @@
   </tr>
 
   <tr> 
-    <td width="50%"> 
+    <td width="50%" valign="top"> 
       <h3 align="center">COCOMO Calculator</h3> 
       <div align="center"> 
-        <a href="https://github.com/ICaesarI/Cocomo_Calculator" target="_blank"><img src="ProyectsImg/Cocomo-Calculator.png" width="400" alt="Cocomo Calculator"></a> 
+        <a href="https://github.com/ICaesarI/Cocomo_Calculator" target="_blank">
+          <img src="ProyectsImg/Cocomo-Calculator.png" width="400" alt="Cocomo Calculator">
+        </a> 
         <p> 
           <a href="https://github.com/ICaesarI/Cocomo_Calculator" target="_blank"> <img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> 
           <a href="https://cocomo-calculator-theta.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Demo-ff0000?style=for-the-badge&color=ff0000&logoColor=white" alt="Demo"> </a> 
@@ -102,10 +108,12 @@
         <p>Interactive web tool for estimating software project effort and time using the COCOMO II model. Perfect for developers and project managers.</p> 
       </div>
     </td>
-    <td width="50%"> 
+    <td width="50%" valign="top"> 
       <h3 align="center">Enigma-EPS32</h3> 
       <div align="center"> 
-        <a href="https://github.com/ICaesarI/Enigma-EPS32" target="_blank"><img src="ProyectsImg/Enigma-EPS32.png" width="400" alt="Enigma-EPS32"></a> 
+        <a href="https://github.com/ICaesarI/Enigma-EPS32" target="_blank">
+          <img src="ProyectsImg/Enigma-EPS32.png" width="400" alt="Enigma-EPS32">
+        </a> 
         <p> 
           <a href="https://github.com/ICaesarI/Enigma-EPS32" target="_blank"> <img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> 
         </p> 
@@ -115,7 +123,7 @@
   </tr>
 
   <tr>
-    <td width="50%"> 
+    <td width="50%" valign="top"> 
       <h3 align="center">ASTRA Compiler</h3> 
       <div align="center"> 
         <a href="https://github.com/ICaesarI/ASTRA-Compiler-Project" target="_blank">
@@ -126,11 +134,23 @@
             <img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> 
           </a> 
         </p> 
-        <p>Modular compiler infrastructure in Python featuring lexical, syntactic, and semantic analysis with an AST optimization engine and hybrid memory management.</p> 
+        <p>Modular compiler infrastructure in Python featuring lexical, syntactic, and semantic analysis with an AST optimization engine.</p> 
       </div> 
     </td>
-    <td width="50%">
-      </td>
+    <td width="50%" valign="top"> 
+      <h3 align="center">CaesarCode Configuration</h3> 
+      <div align="center"> 
+        <a href="https://github.com/ICaesarI/CaesarCode-Configuration-Script" target="_blank">
+          <img src="CaesarCode-Configuration-Script.png" width="400" alt="CaesarCode-Configuration">
+        </a> 
+        <p> 
+          <a href="https://github.com/ICaesarI/CaesarCode-Configuration-Script" target="_blank"> 
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> 
+          </a> 
+        </p> 
+        <p>Ultimate automated Linux setup. High-performance terminal configuration (Zsh, P10k, LSD) and seamless VS Code synchronization.</p> 
+      </div>      
+    </td> 
   </tr>
 </table>
 
